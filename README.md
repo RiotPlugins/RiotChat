@@ -6,6 +6,8 @@ This README documents features, installation (binary/JAR), configuration, databa
 
 ---
 
+[![RiotChat](https://api.mcbanners.com/banner/resource/hangar/RiotChat/banner.png?background__template=DARK_GUNMETAL)](https://hangar.papermc.io/RiotPlugins/RiotChat)
+
 ## Features
 
 - Formatted chat with prefix/suffix support (LuckPerms integration)
